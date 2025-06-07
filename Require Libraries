@@ -1,0 +1,4 @@
+torch (for gpu acceleration)
+transformers (Hugging Face Library)
+bitsandbytes (Enables 4-bit quantization)
+streamlit (for web interface)
